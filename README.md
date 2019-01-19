@@ -1,2 +1,3 @@
 # Сокольский Сергей Алексеевич ИДМ-18-06
-# https://simlus.github.io
+# Личная страница отчёта: https://simlus.github.io
+# Лендинг пейдж: https://simlas0.wixsite.com/mysite
